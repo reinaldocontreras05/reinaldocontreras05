@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reinaldocontreras05
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Databases, SQL.
-- 💞️ I’m looking to collaborate on GroupM LATAM
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Python, SQL.
+- 💞️ I’m looking to collaborate with an amazing team to lead to success together.
 - 📫 How to reach me: reinaldocontreras05@hotmail.com
 
 <!---
